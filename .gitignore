@@ -2,7 +2,8 @@
 .bloop/
 project/.bloop/
 
-target/
+/*target/
+/project/target
 .idea/
 metastore_db/
 derby.log
